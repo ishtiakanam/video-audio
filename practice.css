@@ -1,0 +1,27 @@
+.image {
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.caption {
+    text-align: center;
+    /* border: 2px solid gray; */
+    width: 300px;
+}
+
+th {
+    border: 1px solid gray;
+}
+
+td {
+    border: 1px solid gray;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+strong {
+    text-align: center;
+}
